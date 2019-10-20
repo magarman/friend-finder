@@ -1,36 +1,36 @@
 var friends = [{
-    "name": "Erisdar The Mysterious One",
-    "photo": "https://forum.unity3d.com/proxy.php?image=http%3A%2F%2Fwww.infinitypbr.com%2Fdragon%2Fhd6.jpg&hash=572c8a1450b0670344e0da08cae18d18",
+    "name": "Queen Russian Blue",
+    "photo": "https://pixfeeds.com/images/cats/1280-648561826-rusian-blue-cat.jpg",
     "scores": [5, 1, 4, 4, 5, 1, 2, 5, 4, 4]
 },
 {
-    "name": "Mistical Taytay",
-    "photo": "http://rizalprovince.ph/tourism_pictures/Avilon%20MZP%20-%20Montalban%20(2).jpg",
+    "name": "The Ragdoll",
+    "photo": "hhttp://www.ragdoll-breeder.com/graphics/home_files/4.jpg",
     "scores": [1, 2, 1, 1, 3, 2, 2, 1, 3, 2]
 },
 {
-    "name": "Skylar Rose",
-    "photo": "http://i2.wp.com/northstarz.ca/wp-content/uploads/2013/12/Rose.jpg",
+    "name": "Mr. Munchkin",
+    "photo": "http://static.shop033.com/resources/18/160536/Image/Munch.jpg",
     "scores": [5, 2, 2, 2, 4, 1, 3, 2, 5, 5]
 },
 {
-    "name": "Colonel Paul",
-    "photo": "http://www.153aw.ang.af.mil/shared/media/bio/Colonel%20Paul%20Lyman.jpg",
+    "name": "Colonel Scottish Fold",
+    "photo": "hhttps://media.mnn.com/assets/images/2016/05/cat-mutation-scottish-fold.jpg.990x0_q80_crop-smart.jpg",
     "scores": [3, 3, 4, 2, 2, 1, 3, 2, 2, 3]
 },
 {
-    "name": "Edward Snowden",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/60/Edward_Snowden-2.jpg",
+    "name": "Norwegian Forest King",
+    "photo": "http://www.missioncats.net/wp-content/uploads/2016/07/norwegian-forest-cat.jpg",
     "scores": [4, 3, 1, 1, 5, 2, 5, 3, 1, 4]
 },
 {
-    "name": "Hesso Nader",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Aatef_Jenyat.jpg/293px-Aatef_Jenyat.jpg",
+    "name": "The Monster Coon",
+    "photo": "http://2.bp.blogspot.com/-VKwG-FHBE5E/UG16vO8_9NI/AAAAAAAARvQ/UwzKha-66_A/s1600/Maine+Coon3.jpg",
     "scores": [3, 3, 4, 5, 4, 3, 5, 3, 5, 5]
 },
 {
-    "name": "Sonneth The Swift",
-    "photo": "http://www.billboard.com/files/styles/article_main_image/public/stylus/1235529-taylor-swift-woman-of-the-year-617-409.jpg",
+    "name": "The devil",
+    "photo": "hhttp://www.leprechaunmuseum.ie/perch/resources/black-cat-w740h494.jpg",
     "scores": [4, 4, 2, 3, 2, 2, 3, 2, 4, 5]
 }
 
