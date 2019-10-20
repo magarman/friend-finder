@@ -5,7 +5,7 @@ var friends = [{
 },
 {
     "name": "The Ragdoll",
-    "photo": "hhttp://www.ragdoll-breeder.com/graphics/home_files/4.jpg",
+    "photo": "http://www.ragdoll-breeder.com/graphics/home_files/4.jpg",
     "scores": [1, 2, 1, 1, 3, 2, 2, 1, 3, 2]
 },
 {
@@ -15,7 +15,7 @@ var friends = [{
 },
 {
     "name": "Colonel Scottish Fold",
-    "photo": "hhttps://media.mnn.com/assets/images/2016/05/cat-mutation-scottish-fold.jpg.990x0_q80_crop-smart.jpg",
+    "photo": "https://media.mnn.com/assets/images/2016/05/cat-mutation-scottish-fold.jpg.990x0_q80_crop-smart.jpg",
     "scores": [3, 3, 4, 2, 2, 1, 3, 2, 2, 3]
 },
 {
@@ -30,7 +30,7 @@ var friends = [{
 },
 {
     "name": "The devil",
-    "photo": "hhttp://www.leprechaunmuseum.ie/perch/resources/black-cat-w740h494.jpg",
+    "photo": "http://www.leprechaunmuseum.ie/perch/resources/black-cat-w740h494.jpg",
     "scores": [4, 4, 2, 3, 2, 2, 3, 2, 4, 5]
 }
 
